@@ -1,0 +1,31 @@
+.jumbotron h1{
+  color: black;
+  font-size: 48pt;
+}
+
+.jumbotron{
+  background-image: url('images/animal-cat-cute-46024.jpg');
+  background-size: cover;
+  background-position: center;
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+}
+
+.container{
+  padding: 25px;
+  background-color: #fff;
+  margin-top: 15px;
+}
+.lead{
+  font-size:32pt;
+}
+p{
+  font-weight: bold;
+  font-size: 24pt;
+  color: black;
+  text-shadow: 1px 2px #ccc;
+}
+
+body{
+  background-color: rgb(43, 57, 81);
+}

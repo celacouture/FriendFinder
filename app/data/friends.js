@@ -1,5 +1,5 @@
 //array of friend data
-var friendsArray=[
+var friendList=[
   {
     name: 'George Clooney',
     photo: '../assets/images/adorable-animal-black-and-white-825947.jpg',
@@ -48,8 +48,8 @@ var friendsArray=[
     ]
   },
   {
-    name: 'Leonardo DaVinci'
-    photo: '../assets/images/animal-animal-photography-close-up-914794.jpg'
+    name: 'Leonardo DaVinci',
+    photo: '../assets/images/animal-animal-photography-close-up-914794.jpg',
     score:[
       '5',
       '4',
@@ -64,8 +64,8 @@ var friendsArray=[
     ]
   },
   {
-    name: 'Dolly Parton'
-    photo:'../assets/images/animal-beak-beautiful-638738.jpg'
+    name: 'Dolly Parton',
+    photo:'../assets/images/animal-beak-beautiful-638738.jpg',
     score:[
       '4',
       '4',
@@ -80,8 +80,8 @@ var friendsArray=[
     ]
   },
   {
-    name:'Hengroen'
-    photo: '../assets/images/animal-blur-horse-257573.jpg'
+    name:'Hengroen',
+    photo: '../assets/images/animal-blur-horse-257573.jpg',
     score:[
       '4',
       '4',
@@ -96,8 +96,8 @@ var friendsArray=[
     ]
   },
   {
-    name:'Ginger Rogers'
-    photo: '../assets/images/animal-cat-close-up-416195.jpg'
+    name:'Ginger Rogers',
+    photo: '../assets/images/animal-cat-close-up-416195.jpg',
     score:[
       '2',
       '3',
@@ -112,8 +112,8 @@ var friendsArray=[
     ]
   },
   {
-    name:'Benedict Cumberbatch'
-    photo:'../assets/images/animal-chameleon-close-up-584165.jpg'
+    name:'Benedict Cumberbatch',
+    photo:'../assets/images/animal-chameleon-close-up-584165.jpg',
     score:[
       '5',
       '1',
@@ -128,8 +128,8 @@ var friendsArray=[
     ]
   },
   {
-    name:'Ellen DeGeneres'
-    photo:'../assets/images/aquatic-blue-colorful-60090.jpg'
+    name:'Ellen DeGeneres',
+    photo:'../assets/images/aquatic-blue-colorful-60090.jpg',
     score:[
       '4',
       '5',
@@ -144,8 +144,8 @@ var friendsArray=[
     ]
   },
   {
-    name:'Queen Elizabeth II'
-    photo: '../assets/images/animal-corgi-58997.jpg'
+    name:'Queen Elizabeth II',
+    photo: '../assets/images/animal-corgi-58997.jpg',
     score:[
       '2',
       '5',
@@ -168,4 +168,4 @@ var friendsArray=[
 
 
 
-module.exports=friendsArray;
+module.exports=friendList;
